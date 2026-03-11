@@ -64,7 +64,7 @@ CSS3	Styling and layout
 JavaScript	Functionality and interaction
 🚀 How to Run the Project
 1️⃣ Clone the Repository
-git clone[ https://github.com/yourusername/modernshop.git](https://github.com/kaur0802003-tech/E-Commerce-website-.git)
+git clone(https://github.com/kaur0802003-tech/E-Commerce-website-.git)
 
 2️⃣ Open the Project Folder
 cd modernshop
